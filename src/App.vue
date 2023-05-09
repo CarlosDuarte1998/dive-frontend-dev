@@ -5,7 +5,7 @@ import ComponentMain from './components/ComponentMain.vue';
 </script>
 
 <template>
-<ComponentFooter />
+<ComponentHeader/>
 </template>
 
 <style scoped>
