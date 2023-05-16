@@ -2,10 +2,18 @@
 import ComponentFooter from './components/ComponentFooter.vue';
 import ComponentHeader from './components/ComponentHeader.vue';
 import ComponentMain from './components/ComponentMain.vue';
+import BlogPostLast from './components/BlogPostLast.vue';
+
+
+
+
 </script>
 
 <template>
-<ComponentHeader/>
+
+<main>
+    <BlogPostLast />
+</main>
 </template>
 
 <style scoped>
